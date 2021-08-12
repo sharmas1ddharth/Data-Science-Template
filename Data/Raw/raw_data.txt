@@ -1,0 +1,3 @@
+Store raw or unprocessed data in this directory.
+
+Note : This text file is only used to keep empty folders in version control you can delete this file.
