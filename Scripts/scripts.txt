@@ -1,3 +1,0 @@
-Store data cleaning, model training, model prediction, data downloading or other python scripts here
-
-Note : This text file is only used to keep empty folders in version control you can delete this file.

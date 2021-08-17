@@ -1,3 +1,0 @@
-Store jupyter notebooks related to your project here.
-
-Note : This text file is only used to keep empty folders in version control you can delete this file.
