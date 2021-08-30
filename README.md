@@ -1,7 +1,6 @@
-Mushroom_Classification
+Project Name
 ==============================
-
-Classify whether a Mushroom is Edible or Poisonous by its specifications.
+Project Description
 
 Project Organization
 ------------
